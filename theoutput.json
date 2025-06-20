@@ -1,0 +1,1688 @@
+[
+  {
+    "subject": "industrial revolution",
+    "predicate": "happened in",
+    "object": "britain",
+    "chunk": 1
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "brought change from",
+    "object": "manufacturing",
+    "chunk": 1
+  },
+  {
+    "subject": "james hargreaves",
+    "predicate": "invented the",
+    "object": "spinning jenny",
+    "chunk": 1
+  },
+  {
+    "subject": "richard arkwright",
+    "predicate": "built the",
+    "object": "water frame",
+    "chunk": 1
+  },
+  {
+    "subject": "textile innovations",
+    "predicate": "accelerated production by",
+    "object": "enabling factories to replace cottage industries",
+    "chunk": 1
+  },
+  {
+    "subject": "james watt",
+    "predicate": "refined the",
+    "object": "steam engine",
+    "chunk": 1
+  },
+  {
+    "subject": "steam engine",
+    "predicate": "enabled widespread adoption",
+    "object": "transportation",
+    "chunk": 1
+  },
+  {
+    "subject": "james watt",
+    "predicate": "refines",
+    "object": "steam engine",
+    "chunk": 2
+  },
+  {
+    "subject": "james watt",
+    "predicate": "engineers",
+    "object": "scottish engineer",
+    "chunk": 2
+  },
+  {
+    "subject": "steam engine",
+    "predicate": "enables",
+    "object": "widespread adoption",
+    "chunk": 2
+  },
+  {
+    "subject": "steam engine",
+    "predicate": "powers",
+    "object": "locomotives",
+    "chunk": 2
+  },
+  {
+    "subject": "locomotives",
+    "predicate": "revolutionize",
+    "object": "transport",
+    "chunk": 2
+  },
+  {
+    "subject": "locomotives",
+    "predicate": "link",
+    "object": "markets",
+    "chunk": 2
+  },
+  {
+    "subject": "railways",
+    "predicate": "interconnect",
+    "object": "continents",
+    "chunk": 2
+  },
+  {
+    "subject": "britain",
+    "predicate": "has",
+    "object": "liverpool-manchester railway",
+    "chunk": 2
+  },
+  {
+    "subject": "america",
+    "predicate": "has",
+    "object": "transcontinental railroad",
+    "chunk": 2
+  },
+  {
+    "subject": "cities",
+    "predicate": "become",
+    "object": "production",
+    "chunk": 2
+  },
+  {
+    "subject": "cities",
+    "predicate": "suffer from",
+    "object": "overcrowding",
+    "chunk": 2
+  },
+  {
+    "subject": "cities",
+    "predicate": "suffer from",
+    "object": "unsanitary conditions",
+    "chunk": 2
+  },
+  {
+    "subject": "agriculture",
+    "predicate": "advances",
+    "object": "production",
+    "chunk": 2
+  },
+  {
+    "subject": "el whitney",
+    "predicate": "develops",
+    "object": "gin",
+    "chunk": 2
+  },
+  {
+    "subject": "cyrus mccormick",
+    "predicate": "develops",
+    "object": "mechanical reaper",
+    "chunk": 2
+  },
+  {
+    "subject": "production",
+    "predicate": "allows",
+    "object": "urban expansion",
+    "chunk": 2
+  },
+  {
+    "subject": "gin",
+    "predicate": "allowed",
+    "object": "food production",
+    "chunk": 3
+  },
+  {
+    "subject": "mechanical reaper",
+    "predicate": "increased",
+    "object": "production",
+    "chunk": 3
+  },
+  {
+    "subject": "urban expansion",
+    "predicate": "fed by",
+    "object": "raw material production",
+    "chunk": 3
+  },
+  {
+    "subject": "capitalism",
+    "predicate": "matured",
+    "object": "significantly",
+    "chunk": 3
+  },
+  {
+    "subject": "adam smith",
+    "predicate": "wrote",
+    "object": "the wealth of nations",
+    "chunk": 3
+  },
+  {
+    "subject": "the wealth of nations",
+    "predicate": "laid foundations for",
+    "object": "free-market economies",
+    "chunk": 3
+  },
+  {
+    "subject": "robert owen",
+    "predicate": "promoted",
+    "object": "improved worker conditions",
+    "chunk": 3
+  },
+  {
+    "subject": "new lanark",
+    "predicate": "was founded by",
+    "object": "robert owen",
+    "chunk": 3
+  },
+  {
+    "subject": "activists",
+    "predicate": "spurred legislation for",
+    "object": "reform of labor conditions",
+    "chunk": 3
+  },
+  {
+    "subject": "robert owen",
+    "predicate": "is known for",
+    "object": "improved worker conditions",
+    "chunk": 3
+  },
+  {
+    "subject": "adam smith",
+    "predicate": "is a",
+    "object": "thinker",
+    "chunk": 3
+  },
+  {
+    "subject": "child labor",
+    "predicate": "relates to",
+    "object": "workplace safety regulations",
+    "chunk": 4
+  },
+  {
+    "subject": "third industrial revolution",
+    "predicate": "occurred between",
+    "object": "late 19th and early 20th centuries",
+    "chunk": 4
+  },
+  {
+    "subject": "electricity",
+    "predicate": "broke through",
+    "object": "steelm chemicals communications",
+    "chunk": 4
+  },
+  {
+    "subject": "mass-production methods",
+    "predicate": "pioneered by",
+    "object": "henry ford",
+    "chunk": 4
+  },
+  {
+    "subject": "assembly line",
+    "predicate": "used by",
+    "object": "henry ford",
+    "chunk": 4
+  },
+  {
+    "subject": "workplace safety regulations",
+    "predicate": "built upon",
+    "object": "second industrial revolution",
+    "chunk": 4
+  },
+  {
+    "subject": "telephone",
+    "predicate": "invented by",
+    "object": "alexander graham bell",
+    "chunk": 4
+  },
+  {
+    "subject": "radio",
+    "predicate": "invented by",
+    "object": "guglielmo marconi",
+    "chunk": 4
+  },
+  {
+    "subject": "technology advancements",
+    "predicate": "drove",
+    "object": "construction infrastructure projects",
+    "chunk": 4
+  },
+  {
+    "subject": "skyscrapers and bridges",
+    "predicate": "constructed using",
+    "object": "steel production",
+    "chunk": 4
+  },
+  {
+    "subject": "bessemer process",
+    "predicate": "revolutionized",
+    "object": "production",
+    "chunk": 5
+  },
+  {
+    "subject": "henry bessemer",
+    "predicate": "developed",
+    "object": "bessemer process",
+    "chunk": 5
+  },
+  {
+    "subject": "electricity",
+    "predicate": "brought",
+    "object": "electric lighting",
+    "chunk": 5
+  },
+  {
+    "subject": "thomas edison",
+    "predicate": "invented",
+    "object": "electric lighting",
+    "chunk": 5
+  },
+  {
+    "subject": "nikola tesla",
+    "predicate": "pioneered",
+    "object": "alternating current",
+    "chunk": 5
+  },
+  {
+    "subject": "labor movements",
+    "predicate": "responded to",
+    "object": "conditions in industrial enterprises",
+    "chunk": 5
+  },
+  {
+    "subject": "karl marx",
+    "predicate": "authored",
+    "object": "the communist manifesto",
+    "chunk": 5
+  },
+  {
+    "subject": "friedrich engels",
+    "predicate": "co-authored",
+    "object": "the communist manifesto",
+    "chunk": 6
+  },
+  {
+    "subject": "karl marx",
+    "predicate": "wrote",
+    "object": "the communist manifesto",
+    "chunk": 6
+  },
+  {
+    "subject": "world war ii",
+    "predicate": "ended",
+    "object": "industrial revolutions",
+    "chunk": 6
+  },
+  {
+    "subject": "industrial revolutions",
+    "predicate": "began",
+    "object": "mid-20th century",
+    "chunk": 6
+  },
+  {
+    "subject": "digital revolution",
+    "predicate": "is part of",
+    "object": "industrial revolutions",
+    "chunk": 6
+  },
+  {
+    "subject": "transport",
+    "predicate": "invented by",
+    "object": "bell labs",
+    "chunk": 6
+  },
+  {
+    "subject": "integrated circuit",
+    "predicate": "was discovered after",
+    "object": "transport",
+    "chunk": 6
+  },
+  {
+    "subject": "steve jobs",
+    "predicate": "popularized",
+    "object": "personal computing",
+    "chunk": 7
+  },
+  {
+    "subject": "steve wozniak",
+    "predicate": "co-founded",
+    "object": "apple",
+    "chunk": 6
+  },
+  {
+    "subject": "bill gates",
+    "predicate": "democratized",
+    "object": "access to it",
+    "chunk": 7
+  },
+  {
+    "subject": "darpa",
+    "predicate": "developed",
+    "object": "interactions",
+    "chunk": 7
+  },
+  {
+    "subject": "tim berners-lee",
+    "predicate": "enabled",
+    "object": "instantaneous communication",
+    "chunk": 7
+  },
+  {
+    "subject": "toyota",
+    "predicate": "pioneered",
+    "object": "robotic assembly lines",
+    "chunk": 7
+  },
+  {
+    "subject": "toyota",
+    "predicate": "pioneered",
+    "object": "the internet",
+    "chunk": 8
+  },
+  {
+    "subject": "toyota",
+    "predicate": "enabled",
+    "object": "mass customization",
+    "chunk": 8
+  },
+  {
+    "subject": "toyota",
+    "predicate": "used",
+    "object": "production",
+    "chunk": 8
+  },
+  {
+    "subject": "motorola",
+    "predicate": "developed",
+    "object": "cellular technologies",
+    "chunk": 8
+  },
+  {
+    "subject": "nokia",
+    "predicate": "developed",
+    "object": "cellular technologies",
+    "chunk": 8
+  },
+  {
+    "subject": "apple",
+    "predicate": "developed",
+    "object": "cellular technologies",
+    "chunk": 8
+  },
+  {
+    "subject": "samsung",
+    "predicate": "developed",
+    "object": "cellular technologies",
+    "chunk": 8
+  },
+  {
+    "subject": "amazon",
+    "predicate": "transformed",
+    "object": "retail",
+    "chunk": 8
+  },
+  {
+    "subject": "alibaba",
+    "predicate": "transformed",
+    "object": "logistics",
+    "chunk": 8
+  },
+  {
+    "subject": "amazon",
+    "predicate": "changed",
+    "object": "consumer behavior",
+    "chunk": 8
+  },
+  {
+    "subject": "humanity",
+    "predicate": "experienced",
+    "object": "second industrial revolution",
+    "chunk": 8
+  },
+  {
+    "subject": "humanity",
+    "predicate": "experiences",
+    "object": "second industrial revolution",
+    "chunk": 9
+  },
+  {
+    "subject": "second industrial revolution",
+    "predicate": "centers on",
+    "object": "groundbreaking technologies",
+    "chunk": 9
+  },
+  {
+    "subject": "groundbreaking technologies",
+    "predicate": "include",
+    "object": "artificial intelligence",
+    "chunk": 9
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "advanced by",
+    "object": "openai",
+    "chunk": 9
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "advanced by",
+    "object": "google",
+    "chunk": 9
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "advanced by",
+    "object": "microsoft",
+    "chunk": 9
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "advanced by",
+    "object": "ibm",
+    "chunk": 9
+  },
+  {
+    "subject": "natural language processing",
+    "predicate": "enabled by",
+    "object": "ai",
+    "chunk": 9
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "enabled by",
+    "object": "ai",
+    "chunk": 9
+  },
+  {
+    "subject": "smart assistants",
+    "predicate": "enabled by",
+    "object": "chatgpt",
+    "chunk": 9
+  },
+  {
+    "subject": "algorithms",
+    "predicate": "fundamental in",
+    "object": "healthcare",
+    "chunk": 9
+  },
+  {
+    "subject": "algorithms",
+    "predicate": "fundamental in",
+    "object": "finance",
+    "chunk": 9
+  },
+  {
+    "subject": "algorithms",
+    "predicate": "fundamental in",
+    "object": "manufacturing",
+    "chunk": 9
+  },
+  {
+    "subject": "algorithms",
+    "predicate": "enable",
+    "object": "predictive modeling",
+    "chunk": 10
+  },
+  {
+    "subject": "algorithms",
+    "predicate": "optimize",
+    "object": "processes",
+    "chunk": 10
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "reshape",
+    "object": "transistor",
+    "chunk": 10
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "promote",
+    "object": "urban planning",
+    "chunk": 10
+  },
+  {
+    "subject": "blockchain technology",
+    "predicate": "challenge",
+    "object": "financial institutions",
+    "chunk": 10
+  },
+  {
+    "subject": "blockchain technology",
+    "predicate": "introduce",
+    "object": "smart contracts",
+    "chunk": 10
+  },
+  {
+    "subject": "biotechnology advancements",
+    "predicate": "address",
+    "object": "diseases",
+    "chunk": 10
+  },
+  {
+    "subject": "quantum computing",
+    "predicate": "develop",
+    "object": "organisations",
+    "chunk": 10
+  },
+  {
+    "subject": "incurable diseases",
+    "predicate": "significantly alter",
+    "object": "medicine",
+    "chunk": 11
+  },
+  {
+    "subject": "diseases",
+    "predicate": "affect",
+    "object": "ethical considerations",
+    "chunk": 11
+  },
+  {
+    "subject": "quantum computing",
+    "predicate": "developed by",
+    "object": "ibm",
+    "chunk": 11
+  },
+  {
+    "subject": "quantum computing",
+    "predicate": "developed by",
+    "object": "google",
+    "chunk": 11
+  },
+  {
+    "subject": "quantum computing",
+    "predicate": "researched by",
+    "object": "mit",
+    "chunk": 11
+  },
+  {
+    "subject": "quantum computing",
+    "predicate": "revolutionize",
+    "object": "fields like cryptography, materials science, and pharmaceuticals",
+    "chunk": 11
+  },
+  {
+    "subject": "second industrial revolution",
+    "predicate": "create questions about",
+    "object": "economic inequality",
+    "chunk": 11
+  },
+  {
+    "subject": "second industrial revolution",
+    "predicate": "create questions about",
+    "object": "ethics",
+    "chunk": 11
+  },
+  {
+    "subject": "second industrial revolution",
+    "predicate": "create questions about",
+    "object": "data privacy",
+    "chunk": 11
+  },
+  {
+    "subject": "second industrial revolution",
+    "predicate": "create questions about",
+    "object": "employment",
+    "chunk": 11
+  },
+  {
+    "subject": "debates",
+    "predicate": "concerned with",
+    "object": "employment",
+    "chunk": 11
+  },
+  {
+    "subject": "debates",
+    "predicate": "concerned with",
+    "object": "implications of pervasive data collection",
+    "chunk": 11
+  },
+  {
+    "subject": "debates",
+    "predicate": "concerned with",
+    "object": "artificial intelligence",
+    "chunk": 11
+  },
+  {
+    "subject": "world economic forum",
+    "predicate": "involved in",
+    "object": "debates on technological progress",
+    "chunk": 11
+  },
+  {
+    "subject": "united nations",
+    "predicate": "involved in",
+    "object": "technological progress",
+    "chunk": 11
+  },
+  {
+    "subject": "ai",
+    "predicate": "relates to",
+    "object": "ethics",
+    "chunk": 12
+  },
+  {
+    "subject": "world economic forum",
+    "predicate": "engages with",
+    "object": "ai",
+    "chunk": 12
+  },
+  {
+    "subject": "united nations",
+    "predicate": "acts on",
+    "object": "technological progress",
+    "chunk": 12
+  },
+  {
+    "subject": "governments globally",
+    "predicate": "managae",
+    "object": "technological progress",
+    "chunk": 12
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "transformed society",
+    "object": "global systems",
+    "chunk": 12
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "reshaped norms",
+    "object": "interactions",
+    "chunk": 12
+  },
+  {
+    "subject": "technology and environment",
+    "predicate": "influenced human",
+    "object": "interactions",
+    "chunk": 12
+  },
+  {
+    "subject": "narrative",
+    "predicate": "understanding is key",
+    "object": "complex interplay",
+    "chunk": 12
+  },
+  {
+    "subject": "narrative",
+    "predicate": "includes technological innovation",
+    "object": "socioeconomic shifts",
+    "chunk": 12
+  },
+  {
+    "subject": "global politics",
+    "predicate": "influences human civilization",
+    "object": "whole",
+    "chunk": 12
+  },
+  {
+    "subject": "human civilization",
+    "predicate": "affected by",
+    "object": "technological innovation",
+    "chunk": 13
+  },
+  {
+    "subject": "global politics",
+    "predicate": "influences",
+    "object": "socioeconomic shifts",
+    "chunk": 13
+  },
+  {
+    "subject": "socioeconomic shifts",
+    "predicate": "impact on",
+    "object": "human civilization",
+    "chunk": 13
+  },
+  {
+    "subject": "technological innovation",
+    "predicate": "shapes",
+    "object": "global politics",
+    "chunk": 13
+  },
+  {
+    "subject": "openai",
+    "predicate": "impacted agriculture",
+    "object": "agriculture",
+    "inferred": true
+  },
+  {
+    "subject": "urban planning",
+    "predicate": "influenced cities",
+    "object": "cities",
+    "inferred": true
+  },
+  {
+    "subject": "groundbreaking technologies",
+    "predicate": "enabled mechanical reaper",
+    "object": "mechanical reaper",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "develops healthcare",
+    "object": "algorithms",
+    "inferred": true
+  },
+  {
+    "subject": "groundbreaking technologies",
+    "predicate": "transforms industrial processes",
+    "object": "processes",
+    "inferred": true
+  },
+  {
+    "subject": "urban planning",
+    "predicate": "influences human interactions",
+    "object": "interactions",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "inspired by",
+    "object": "james watt",
+    "inferred": true
+  },
+  {
+    "subject": "urban planning",
+    "predicate": "enabled by",
+    "object": "locomotives",
+    "inferred": true
+  },
+  {
+    "subject": "organisations",
+    "predicate": "explored implications of",
+    "object": "implications of pervasive data collection",
+    "inferred": true
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "Shapes Global Politics",
+    "object": "Global Politics",
+    "inferred": true
+  },
+  {
+    "subject": "Implications of Pervasive Data Collection",
+    "predicate": "Concerns Human Civilization",
+    "object": "Human Civilization",
+    "inferred": true
+  },
+  {
+    "subject": "Groundbreaking Technologies",
+    "predicate": "Affects Socioeconomic Shifts",
+    "object": "Socioeconomic Shifts",
+    "inferred": true
+  },
+  {
+    "subject": "mechanical reaper",
+    "predicate": "enabled production",
+    "object": "raw material production",
+    "inferred": true
+  },
+  {
+    "subject": "cities",
+    "predicate": "influenced interactions",
+    "object": "healthcare",
+    "inferred": true
+  },
+  {
+    "subject": "toyota",
+    "predicate": "optimized processes",
+    "object": "algorithms",
+    "inferred": true
+  },
+  {
+    "subject": "mechanical reaper",
+    "predicate": "replaced manual labor",
+    "object": "steam engine",
+    "inferred": true
+  },
+  {
+    "subject": "raw material production",
+    "predicate": "enabled urban expansion",
+    "object": "markets",
+    "inferred": true
+  },
+  {
+    "subject": "toyota",
+    "predicate": "adopted steam power",
+    "object": "locomotives",
+    "inferred": true
+  },
+  {
+    "subject": "mechanical reaper",
+    "predicate": "drives food narrative",
+    "object": "narrative",
+    "inferred": true
+  },
+  {
+    "subject": "cities",
+    "predicate": "shape global politics",
+    "object": "global politics",
+    "inferred": true
+  },
+  {
+    "subject": "agriculture",
+    "predicate": "influences human civilization",
+    "object": "human civilization",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "enabled by steam",
+    "object": "james watt",
+    "inferred": true
+  },
+  {
+    "subject": "processes",
+    "predicate": "optimized by algorithms",
+    "object": "bell labs",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "transformed by lokomotives",
+    "object": "locomotives",
+    "inferred": true
+  },
+  {
+    "subject": "healthcare",
+    "predicate": "impacts civilization",
+    "object": "human civilization",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "shapes politics",
+    "object": "global politics",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "drives socioeconomic shifts",
+    "object": "socioeconomic shifts",
+    "inferred": true
+  },
+  {
+    "subject": "james watt",
+    "predicate": "influenced global politics",
+    "object": "human civilization",
+    "inferred": true
+  },
+  {
+    "subject": "steam engine",
+    "predicate": "shapes socioeconomic shifts",
+    "object": "global politics",
+    "inferred": true
+  },
+  {
+    "subject": "bell labs",
+    "predicate": "impacts understanding",
+    "object": "socioeconomic shifts",
+    "inferred": true
+  },
+  {
+    "subject": "implications of pervasive data collection",
+    "predicate": "addressed by",
+    "object": "world economic forum",
+    "inferred": true
+  },
+  {
+    "subject": "economic inequality",
+    "predicate": "explored in",
+    "object": "debates on technological progress",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "related to",
+    "object": "data privacy",
+    "inferred": true
+  },
+  {
+    "subject": "implications of pervasive data collection",
+    "predicate": "concerns about",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "data privacy",
+    "predicate": "threatened by",
+    "object": "pervasive data collection",
+    "inferred": true
+  },
+  {
+    "subject": "economic inequality",
+    "predicate": "linked to",
+    "object": "world economic forum",
+    "inferred": true
+  },
+  {
+    "subject": "debates on technological progress",
+    "predicate": "raises questions about",
+    "object": "economic inequality",
+    "inferred": true
+  },
+  {
+    "subject": "raw material production",
+    "predicate": "increases",
+    "object": "production",
+    "inferred": true
+  },
+  {
+    "subject": "Bessemer process",
+    "predicate": "revolutionized",
+    "object": "production",
+    "inferred": true
+  },
+  {
+    "subject": "raw material production",
+    "predicate": "feeds",
+    "object": "urban expansion",
+    "inferred": true
+  },
+  {
+    "subject": "agriculture advances",
+    "predicate": "improves",
+    "object": "raw material production",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "happened in via",
+    "object": "liverpool-manchester railway",
+    "inferred": true
+  },
+  {
+    "subject": "james watt",
+    "predicate": "refines via steam",
+    "object": "locomotives",
+    "inferred": true
+  },
+  {
+    "subject": "james watt",
+    "predicate": "refines via steam",
+    "object": "widespread adoption",
+    "inferred": true
+  },
+  {
+    "subject": "james watt",
+    "predicate": "refines via steam",
+    "object": "transportation",
+    "inferred": true
+  },
+  {
+    "subject": "steam engine",
+    "predicate": "powers via locomotives",
+    "object": "markets",
+    "inferred": true
+  },
+  {
+    "subject": "steam engine",
+    "predicate": "powers via locomotives",
+    "object": "transport",
+    "inferred": true
+  },
+  {
+    "subject": "locomotives",
+    "predicate": "revolutionize via transport",
+    "object": "bell labs",
+    "inferred": true
+  },
+  {
+    "subject": "cities",
+    "predicate": "become via production",
+    "object": "urban expansion",
+    "inferred": true
+  },
+  {
+    "subject": "agriculture",
+    "predicate": "advances via production",
+    "object": "urban expansion",
+    "inferred": true
+  },
+  {
+    "subject": "el whitney",
+    "predicate": "develops via gin",
+    "object": "food production",
+    "inferred": true
+  },
+  {
+    "subject": "cyrus mccormick",
+    "predicate": "develops via mechanical",
+    "object": "production",
+    "inferred": true
+  },
+  {
+    "subject": "production",
+    "predicate": "allows via urban",
+    "object": "raw material production",
+    "inferred": true
+  },
+  {
+    "subject": "mechanical reaper",
+    "predicate": "increased via production",
+    "object": "urban expansion",
+    "inferred": true
+  },
+  {
+    "subject": "adam smith",
+    "predicate": "wrote via",
+    "object": "free-market economies",
+    "inferred": true
+  },
+  {
+    "subject": "new lanark",
+    "predicate": "was founded",
+    "object": "improved worker conditions",
+    "inferred": true
+  },
+  {
+    "subject": "child labor",
+    "predicate": "relates to via",
+    "object": "second industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "workplace safety regulations",
+    "predicate": "built upon via",
+    "object": "ethics",
+    "inferred": true
+  },
+  {
+    "subject": "workplace safety regulations",
+    "predicate": "built upon via",
+    "object": "economic inequality",
+    "inferred": true
+  },
+  {
+    "subject": "workplace safety regulations",
+    "predicate": "built upon via",
+    "object": "employment",
+    "inferred": true
+  },
+  {
+    "subject": "workplace safety regulations",
+    "predicate": "built upon via",
+    "object": "data privacy",
+    "inferred": true
+  },
+  {
+    "subject": "workplace safety regulations",
+    "predicate": "built upon via",
+    "object": "groundbreaking technologies",
+    "inferred": true
+  },
+  {
+    "subject": "bessemer process",
+    "predicate": "revolutionized via production",
+    "object": "urban expansion",
+    "inferred": true
+  },
+  {
+    "subject": "henry bessemer",
+    "predicate": "developed via bessemer",
+    "object": "production",
+    "inferred": true
+  },
+  {
+    "subject": "world war ii",
+    "predicate": "ended via industrial",
+    "object": "mid-20th century",
+    "inferred": true
+  },
+  {
+    "subject": "digital revolution",
+    "predicate": "is part",
+    "object": "mid-20th century",
+    "inferred": true
+  },
+  {
+    "subject": "integrated circuit",
+    "predicate": "was discovered after",
+    "object": "bell labs",
+    "inferred": true
+  },
+  {
+    "subject": "steve wozniak",
+    "predicate": "co-founded via apple",
+    "object": "cellular technologies",
+    "inferred": true
+  },
+  {
+    "subject": "toyota",
+    "predicate": "used via production",
+    "object": "urban expansion",
+    "inferred": true
+  },
+  {
+    "subject": "humanity",
+    "predicate": "experiences via second",
+    "object": "ethics",
+    "inferred": true
+  },
+  {
+    "subject": "humanity",
+    "predicate": "experiences via second",
+    "object": "economic inequality",
+    "inferred": true
+  },
+  {
+    "subject": "humanity",
+    "predicate": "experiences via second",
+    "object": "employment",
+    "inferred": true
+  },
+  {
+    "subject": "humanity",
+    "predicate": "experiences via second",
+    "object": "data privacy",
+    "inferred": true
+  },
+  {
+    "subject": "humanity",
+    "predicate": "experiences via second",
+    "object": "groundbreaking technologies",
+    "inferred": true
+  },
+  {
+    "subject": "second industrial revolution",
+    "predicate": "centers on via",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "groundbreaking technologies",
+    "predicate": "include via artificial",
+    "object": "microsoft",
+    "inferred": true
+  },
+  {
+    "subject": "groundbreaking technologies",
+    "predicate": "include via artificial",
+    "object": "google",
+    "inferred": true
+  },
+  {
+    "subject": "groundbreaking technologies",
+    "predicate": "include via artificial",
+    "object": "ibm",
+    "inferred": true
+  },
+  {
+    "subject": "groundbreaking technologies",
+    "predicate": "include via artificial",
+    "object": "openai",
+    "inferred": true
+  },
+  {
+    "subject": "natural language processing",
+    "predicate": "enabled by via",
+    "object": "ethics",
+    "inferred": true
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "enabled by via",
+    "object": "ethics",
+    "inferred": true
+  },
+  {
+    "subject": "biotechnology advancements",
+    "predicate": "address via diseases",
+    "object": "ethical considerations",
+    "inferred": true
+  },
+  {
+    "subject": "debates",
+    "predicate": "concerned with via",
+    "object": "microsoft",
+    "inferred": true
+  },
+  {
+    "subject": "debates",
+    "predicate": "concerned with via",
+    "object": "google",
+    "inferred": true
+  },
+  {
+    "subject": "debates",
+    "predicate": "concerned with via",
+    "object": "ibm",
+    "inferred": true
+  },
+  {
+    "subject": "debates",
+    "predicate": "concerned with via",
+    "object": "openai",
+    "inferred": true
+  },
+  {
+    "subject": "world economic forum",
+    "predicate": "engages with via",
+    "object": "ethics",
+    "inferred": true
+  },
+  {
+    "subject": "narrative",
+    "predicate": "includes technological innovation",
+    "object": "human civilization",
+    "inferred": true
+  },
+  {
+    "subject": "global politics",
+    "predicate": "influences via socioeconomic",
+    "object": "human civilization",
+    "inferred": true
+  },
+  {
+    "subject": "human civilization",
+    "predicate": "affected by via",
+    "object": "global politics",
+    "inferred": true
+  },
+  {
+    "subject": "socioeconomic shifts",
+    "predicate": "impact on via",
+    "object": "technological innovation",
+    "inferred": true
+  },
+  {
+    "subject": "technological innovation",
+    "predicate": "shapes via global",
+    "object": "socioeconomic shifts",
+    "inferred": true
+  },
+  {
+    "subject": "technological innovation",
+    "predicate": "shapes via global",
+    "object": "whole",
+    "inferred": true
+  },
+  {
+    "subject": "global politics",
+    "predicate": "related to",
+    "object": "global systems",
+    "inferred": true
+  },
+  {
+    "subject": "retail",
+    "predicate": "is type of",
+    "object": "ai",
+    "inferred": true
+  },
+  {
+    "subject": "the wealth of nations",
+    "predicate": "related to",
+    "object": "united nations",
+    "inferred": true
+  },
+  {
+    "subject": "liverpool-manchester railway",
+    "predicate": "is type of",
+    "object": "ai",
+    "inferred": true
+  },
+  {
+    "subject": "robotic assembly lines",
+    "predicate": "relates to",
+    "object": "assembly line",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "related to",
+    "object": "industrial revolutions",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "related to",
+    "object": "second industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "related to",
+    "object": "digital revolution",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "related to",
+    "object": "third industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "conditions in industrial enterprises",
+    "predicate": "relates to",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "transportation",
+    "predicate": "is type of",
+    "object": "transport",
+    "inferred": true
+  },
+  {
+    "subject": "groundbreaking technologies",
+    "predicate": "related to",
+    "object": "cellular technologies",
+    "inferred": true
+  },
+  {
+    "subject": "urban planning",
+    "predicate": "related to",
+    "object": "urban expansion",
+    "inferred": true
+  },
+  {
+    "subject": "implications of pervasive data collection",
+    "predicate": "relates to",
+    "object": "data privacy",
+    "inferred": true
+  },
+  {
+    "subject": "adam smith",
+    "predicate": "is type of",
+    "object": "mit",
+    "inferred": true
+  },
+  {
+    "subject": "debates on technological progress",
+    "predicate": "relates to",
+    "object": "technological innovation",
+    "inferred": true
+  },
+  {
+    "subject": "debates on technological progress",
+    "predicate": "related to",
+    "object": "debates",
+    "inferred": true
+  },
+  {
+    "subject": "debates on technological progress",
+    "predicate": "relates to",
+    "object": "technological progress",
+    "inferred": true
+  },
+  {
+    "subject": "technology advancements",
+    "predicate": "related to",
+    "object": "biotechnology advancements",
+    "inferred": true
+  },
+  {
+    "subject": "technology advancements",
+    "predicate": "related to",
+    "object": "technology and environment",
+    "inferred": true
+  },
+  {
+    "subject": "blockchain technology",
+    "predicate": "relates to",
+    "object": "technology advancements",
+    "inferred": true
+  },
+  {
+    "subject": "britain",
+    "predicate": "is type of",
+    "object": "ai",
+    "inferred": true
+  },
+  {
+    "subject": "railways",
+    "predicate": "is type of",
+    "object": "ai",
+    "inferred": true
+  },
+  {
+    "subject": "transcontinental railroad",
+    "predicate": "is type of",
+    "object": "ai",
+    "inferred": true
+  },
+  {
+    "subject": "blockchain technology",
+    "predicate": "is type of",
+    "object": "ai",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "is type of",
+    "object": "ai",
+    "inferred": true
+  },
+  {
+    "subject": "child labor",
+    "predicate": "related to",
+    "object": "reform of labor conditions",
+    "inferred": true
+  },
+  {
+    "subject": "child labor",
+    "predicate": "relates to",
+    "object": "labor movements",
+    "inferred": true
+  },
+  {
+    "subject": "raw material production",
+    "predicate": "related to",
+    "object": "steel production",
+    "inferred": true
+  },
+  {
+    "subject": "raw material production",
+    "predicate": "related to",
+    "object": "food production",
+    "inferred": true
+  },
+  {
+    "subject": "raw material production",
+    "predicate": "relates to",
+    "object": "production",
+    "inferred": true
+  },
+  {
+    "subject": "alexander graham bell",
+    "predicate": "relates to",
+    "object": "bell labs",
+    "inferred": true
+  },
+  {
+    "subject": "smart contracts",
+    "predicate": "related to",
+    "object": "smart assistants",
+    "inferred": true
+  },
+  {
+    "subject": "unsanitary conditions",
+    "predicate": "related to",
+    "object": "reform of labor conditions",
+    "inferred": true
+  },
+  {
+    "subject": "unsanitary conditions",
+    "predicate": "related to",
+    "object": "improved worker conditions",
+    "inferred": true
+  },
+  {
+    "subject": "unsanitary conditions",
+    "predicate": "relates to",
+    "object": "conditions in industrial enterprises",
+    "inferred": true
+  },
+  {
+    "subject": "reform of labor conditions",
+    "predicate": "related to",
+    "object": "improved worker conditions",
+    "inferred": true
+  },
+  {
+    "subject": "reform of labor conditions",
+    "predicate": "relates to",
+    "object": "labor movements",
+    "inferred": true
+  },
+  {
+    "subject": "reform of labor conditions",
+    "predicate": "relates to",
+    "object": "conditions in industrial enterprises",
+    "inferred": true
+  },
+  {
+    "subject": "improved worker conditions",
+    "predicate": "relates to",
+    "object": "conditions in industrial enterprises",
+    "inferred": true
+  },
+  {
+    "subject": "henry ford",
+    "predicate": "related to",
+    "object": "henry bessemer",
+    "inferred": true
+  },
+  {
+    "subject": "mass-production methods",
+    "predicate": "is type of",
+    "object": "production",
+    "inferred": true
+  },
+  {
+    "subject": "second industrial revolution",
+    "predicate": "relates to",
+    "object": "industrial revolutions",
+    "inferred": true
+  },
+  {
+    "subject": "third industrial revolution",
+    "predicate": "relates to",
+    "object": "industrial revolutions",
+    "inferred": true
+  },
+  {
+    "subject": "conditions in industrial enterprises",
+    "predicate": "relates to",
+    "object": "industrial revolutions",
+    "inferred": true
+  },
+  {
+    "subject": "steam engine",
+    "predicate": "is type of",
+    "object": "gin",
+    "inferred": true
+  },
+  {
+    "subject": "scottish engineer",
+    "predicate": "is type of",
+    "object": "gin",
+    "inferred": true
+  },
+  {
+    "subject": "technological innovation",
+    "predicate": "related to",
+    "object": "technological progress",
+    "inferred": true
+  },
+  {
+    "subject": "steve jobs",
+    "predicate": "related to",
+    "object": "steve wozniak",
+    "inferred": true
+  },
+  {
+    "subject": "james hargreaves",
+    "predicate": "related to",
+    "object": "james watt",
+    "inferred": true
+  },
+  {
+    "subject": "quantum computing",
+    "predicate": "related to",
+    "object": "personal computing",
+    "inferred": true
+  },
+  {
+    "subject": "incurable diseases",
+    "predicate": "relates to",
+    "object": "diseases",
+    "inferred": true
+  },
+  {
+    "subject": "world economic forum",
+    "predicate": "relates to",
+    "object": "economic inequality",
+    "inferred": true
+  },
+  {
+    "subject": "world economic forum",
+    "predicate": "related to",
+    "object": "world war ii",
+    "inferred": true
+  },
+  {
+    "subject": "steel production",
+    "predicate": "related to",
+    "object": "food production",
+    "inferred": true
+  },
+  {
+    "subject": "steel production",
+    "predicate": "relates to",
+    "object": "production",
+    "inferred": true
+  },
+  {
+    "subject": "blockchain technology",
+    "predicate": "relates to",
+    "object": "technology and environment",
+    "inferred": true
+  },
+  {
+    "subject": "second industrial revolution",
+    "predicate": "related to",
+    "object": "digital revolution",
+    "inferred": true
+  },
+  {
+    "subject": "second industrial revolution",
+    "predicate": "related to",
+    "object": "third industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "second industrial revolution",
+    "predicate": "related to",
+    "object": "conditions in industrial enterprises",
+    "inferred": true
+  },
+  {
+    "subject": "food production",
+    "predicate": "relates to",
+    "object": "production",
+    "inferred": true
+  },
+  {
+    "subject": "digital revolution",
+    "predicate": "related to",
+    "object": "third industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "third industrial revolution",
+    "predicate": "related to",
+    "object": "conditions in industrial enterprises",
+    "inferred": true
+  }
+]

@@ -1,0 +1,105 @@
+(Python_312) C:\Users\DAVID\Documents\PythonCode\Knowledge Graphs\ai-knowledge-graph>python generate-graph.py --input "/data/industrial revolution.txt" --output theoutput.html
+Error reading input file /data/industrial revolution.txt: [Errno 2] No such file or directory: '/data/industrial revolution.txt'
+
+(Python_312) C:\Users\DAVID\Documents\PythonCode\Knowledge Graphs\ai-knowledge-graph>python generate-graph.py --input industrial.txt --output theoutput.html
+Using input text from file: industrial.txt
+==================================================
+PHASE 1: INITIAL TRIPLE EXTRACTION
+==================================================
+Processing text in 13 chunks (size: 100 words, overlap: 20 words)
+Processing chunk 1/13 (100 words)
+Found JSON in code block, extracting content...
+Processing chunk 2/13 (100 words)
+Found JSON in code block, extracting content...
+Warning: Filtered out 1 invalid triples missing required fields
+Processing chunk 3/13 (100 words)
+Warning: Filtered out 3 invalid triples missing required fields
+Processing chunk 4/13 (100 words)
+Processing chunk 5/13 (100 words)
+Processing chunk 6/13 (100 words)
+Found JSON in code block, extracting content...
+Processing chunk 7/13 (100 words)
+Processing chunk 8/13 (100 words)
+Processing chunk 9/13 (100 words)
+Found JSON in code block, extracting content...
+Processing chunk 10/13 (100 words)
+Found JSON in code block, extracting content...
+Processing chunk 11/13 (100 words)
+Found JSON in code block, extracting content...
+Processing chunk 12/13 (86 words)
+Processing chunk 13/13 (20 words)
+
+Extracted a total of 127 triples from all chunks
+
+==================================================
+PHASE 2: ENTITY STANDARDIZATION
+==================================================
+Starting with 127 triples and 184 unique entities
+Standardizing entity names across all triples...
+Found JSON in code block, extracting content...
+Could not extract valid entity mapping from LLM response
+Standardized 179 entities into 154 standard forms
+After standardization: 127 triples and 154 unique entities
+
+==================================================
+PHASE 3: RELATIONSHIP INFERENCE
+==================================================
+Starting with 127 triples
+Top 5 relationship types before inference:
+  - developed: 6 occurrences
+  - advanced by: 4 occurrences
+  - create questions about: 4 occurrences
+  - invented by: 3 occurrences
+  - pioneered: 3 occurrences
+Inferring additional relationships between entities...
+Identified 37 disconnected communities in the graph
+Inferred 3 new relationships between communities
+Inferred 6 new relationships between communities
+Inferred 9 new relationships between communities
+Inferred 12 new relationships between communities
+Inferred 15 new relationships between communities
+Found JSON in code block, extracting content...
+Inferred 18 new relationships between communities
+Inferred 21 new relationships between communities
+Found JSON in code block, extracting content...
+Inferred 24 new relationships between communities
+Inferred 27 new relationships between communities
+Found JSON in code block, extracting content...
+Inferred 30 new relationships between communities
+Inferred 8 new relationships within communities
+Inferred 4 new relationships within communities
+Inferred 63 relationships based on lexical similarity
+Added 154 inferred relationships
+
+Top 5 relationship types after inference:
+  - related to: 31 occurrences
+  - relates to: 23 occurrences
+  - is type of: 12 occurrences
+  - developed: 6 occurrences
+  - built upon via: 5 occurrences
+
+Added 156 inferred relationships
+Final knowledge graph: 281 triples
+Saved raw knowledge graph data to theoutput.json
+Processing 281 triples for visualization
+Found 163 unique nodes
+Found 155 inferred relationships
+Detected 23 communities using Louvain method
+Nodes in NetworkX graph: 163
+Edges in NetworkX graph: 275
+Knowledge graph visualization saved to theoutput.html
+Graph Statistics: {
+  "nodes": 163,
+  "edges": 281,
+  "original_edges": 126,
+  "inferred_edges": 155,
+  "communities": 23
+}
+
+Knowledge Graph Statistics:
+Nodes: 163
+Edges: 281
+Communities: 23
+
+To view the visualization, open the following file in your browser:
+file://C:\Users\DAVID\Documents\PythonCode\Knowledge Graphs\ai-knowledge-graph\theoutput.html
