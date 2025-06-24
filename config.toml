@@ -26,5 +26,13 @@ use_llm_for_inference = true  # Whether to use LLM for relationship inference
 apply_transitive = true    # Whether to apply transitive inference rules
 
 [visualization]
-edge_smooth = false  # Options: false, "dynamic", "continuous", "discrete", "diagonalCross", 
+edge_smooth = false  # Options: false, "dynamic", "continuous", "discrete", "diagonalCross",
                          # "straightCross", "horizontal", "vertical", "curvedCW", "curvedCCW", "cubicBezier": true = "continuous"
+
+[neo4j]
+# Set enabled=true to store triples in Neo4j Desktop
+enabled = false
+# Connection details for Neo4j Desktop
+uri = "bolt://localhost:7687"
+user = "neo4j"
+password = "neo4j"

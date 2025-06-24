@@ -6,15 +6,36 @@ import json
 import os
 import sys
 
+try:
+    from docling.document_converter import DocumentConverter
+except Exception:  # pragma: no cover - optional dependency
+    DocumentConverter = None
+
 # Add the parent directory to the Python path for imports
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 from src.knowledge_graph.config import load_config
 from src.knowledge_graph.llm import call_llm, extract_json_from_text
 from src.knowledge_graph.visualization import visualize_knowledge_graph, sample_data_visualization
+from src.knowledge_graph.neo4j_utils import save_triples_to_neo4j
 from src.knowledge_graph.text_utils import chunk_text
 from src.knowledge_graph.entity_standardization import standardize_entities, infer_relationships, limit_predicate_length
 from src.knowledge_graph.prompts import MAIN_SYSTEM_PROMPT, MAIN_USER_PROMPT
+
+
+def _pdf_to_text(path: str) -> str | None:
+    """Extract text from a PDF using docling if available."""
+    if DocumentConverter is None:
+        print("docling is not installed; cannot process PDF input")
+        return None
+
+    try:
+        converter = DocumentConverter()
+        result = converter.convert(path)
+        return result.document.export_to_text()
+    except Exception as exc:  # pragma: no cover - external library errors
+        print(f"Error processing PDF {path}: {exc}")
+        return None
 
 def process_with_llm(config, input_text, debug=False):
     """
@@ -240,8 +261,13 @@ def main():
     
     # Load input text from file
     try:
-        with open(args.input, 'r', encoding='utf-8') as f:
-            input_text = f.read()
+        if args.input.lower().endswith(".pdf"):
+            input_text = _pdf_to_text(args.input)
+            if input_text is None:
+                return
+        else:
+            with open(args.input, "r", encoding="utf-8") as f:
+                input_text = f.read()
         print(f"Using input text from file: {args.input}")
     except Exception as e:
         print(f"Error reading input file {args.input}: {e}")
@@ -260,6 +286,10 @@ def main():
         except Exception as e:
             print(f"Warning: Could not save raw data to {json_output}: {e}")
         
+        # Optionally store triples in Neo4j
+        if config.get("neo4j", {}).get("enabled", False):
+            save_triples_to_neo4j(result, config.get("neo4j", {}))
+
         # Visualize the knowledge graph
         stats = visualize_knowledge_graph(result, args.output, config=config)
         print("\nKnowledge Graph Statistics:")

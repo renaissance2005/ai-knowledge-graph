@@ -34,3 +34,5 @@ traitlets==5.14.3
 tzdata==2025.1
 urllib3==2.3.0
 wcwidth==0.2.13
+docling==2.37.0
+neo4j==5.19.0
