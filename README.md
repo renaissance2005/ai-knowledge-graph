@@ -13,7 +13,9 @@ A demo of a knowlege graph created with this project can be found here: [Industr
 - **Entity Standardization**: Ensures consistent entity naming across document chunks
 - **Relationship Inference**: Discovers additional relationships between disconnected parts of the graph
 - **Interactive Visualization**: Creates an interactive graph visualization
-- **Works with Any OpenAI Compatible API Endpoint**: Ollama, LM Studio, OpenAI, vLLM, LiteLLM (provides access to AWS Bedrock, Azure OpenAI, Anthropic and many other LLM services) 
+- **PDF Support**: Can read PDF files directly using the docling library
+- **Neo4j Export**: Optionally store triples in a Neo4j Desktop database
+- **Works with Any OpenAI Compatible API Endpoint**: Ollama, LM Studio, OpenAI, vLLM, LiteLLM (provides access to AWS Bedrock, Azure OpenAI, Anthropic and many other LLM services)
 
 ## Requirements
 
@@ -24,11 +26,15 @@ A demo of a knowlege graph created with this project can be found here: [Industr
 
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Configure your settings in `config.toml`
+3. Configure your settings in `config.toml` (add your Neo4j credentials in the `[neo4j]` section if desired)
 4. Run the system:
 
 ```bash
 python generate-graph.py --input your_text_file.txt --output knowledge_graph.html
+```
+You can also pass a PDF file instead of a text file:
+```bash
+python generate-graph.py --input document.pdf --output knowledge_graph.html
 ```
 
 Or with UV:
@@ -36,11 +42,18 @@ Or with UV:
 ```bash
 uv run generate-graph.py --input your_text_file.txt --output knowledge_graph.html
 ```
+# or
+```bash
+uv run generate-graph.py --input document.pdf --output knowledge_graph.html
+```
 Or installing and using as a module:
 
 ```bash
 pip install --upgrade -e .
 generate-graph --input your_text_file.txt --output knowledge_graph.html
+```
+```bash
+generate-graph --input document.pdf --output knowledge_graph.html
 ```
 
 ## Configuration
@@ -67,6 +80,12 @@ use_llm_for_entities = true  # Use LLM for additional entity resolution
 enabled = true             # Enable relationship inference
 use_llm_for_inference = true  # Use LLM for relationship inference
 apply_transitive = true    # Apply transitive inference rules
+
+[neo4j]
+enabled = false            # Set to true to store triples in Neo4j
+uri = "bolt://localhost:7687"  # Connection URI
+user = "neo4j"                 # Neo4j username
+password = "neo4j"             # Neo4j password
 ```
 
 ## Command Line Options
