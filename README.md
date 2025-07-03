@@ -56,6 +56,18 @@ generate-graph --input your_text_file.txt --output knowledge_graph.html
 generate-graph --input document.pdf --output knowledge_graph.html
 ```
 
+## Query Interface
+
+If you've exported triples to Neo4j, you can explore them with the included Streamlit app:
+
+```bash
+streamlit run src/knowledge_graph/neo4j_query_app.py
+```
+
+The app reads connection credentials from the `[neo4j]` section of `config.toml`.
+Alternatively you can set the environment variables `NEO4J_URI`, `NEO4J_USER`,
+and `NEO4J_PASSWORD`.
+
 ## Configuration
 
 The system can be configured using the `config.toml` file:
